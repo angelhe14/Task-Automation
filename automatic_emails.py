@@ -6,7 +6,7 @@ import imghdr
 from email.message import EmailMessage
 
 
-sender_email = ''
+sender_email = '' #Enter the sender's e-mail address inside quotation marks
 password_email = ''
 
 email_recipient = ''
